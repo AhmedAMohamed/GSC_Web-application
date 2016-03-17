@@ -1,0 +1,1 @@
+gollars are added successfully. <a href="<?php echo base_url("Admins/money/users_list");?>">Back</a>

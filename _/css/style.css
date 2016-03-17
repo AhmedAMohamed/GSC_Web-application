@@ -1,0 +1,118 @@
+body{
+		margin:0;
+		background: rgb(85, 124, 191);
+	}
+.header{
+      width: 100%;
+      height: 60px;
+      background: black;
+      padding: 10px 0px;
+    }
+.logo{
+      width: 159px;
+      height: 63px;
+      
+      background: url('../assets/headerlogo.png');
+    }
+
+#back{
+	 position: absolute;
+      margin-left: 170px;
+	display: block;
+	z-index: -1;
+}
+#badges{
+	position: relative;
+	margin-top: -650px;
+	margin-right: -100px;
+	margin-left: 50px;
+	width: 70%;
+	height: 70%;
+}
+
+	
+#form
+{
+	width: 90%;
+	min-width: 960px;
+	height: 800px;
+	margin: 0 auto;
+	background: url('../assets/Registration/registration-photo.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+form{
+	width: 300px;
+	float: right;
+	margin: 70px;
+	height: auto;
+	background-color: #547CBE ; opacity:0.7;
+	padding: 20px 50px;
+}
+
+input[type=text],input[type=tel],input[type=email],select{
+	width: 300px;
+	height: 40px;
+	margin: 2px 0;
+}
+
+select{
+	width: 304px;
+	height: 40px;
+}
+#submit{
+	width: 200px;
+background-color: #ACDB12;
+font-style: white;
+text-align: center;
+padding: auto;
+height: 45px;
+margin: 0 auto;
+display: block;
+}
+
+
+
+p{
+
+	text-align: center;
+margin: 0;
+font-size: 12px;
+font-family: Open Sans;
+color: #fff;
+}
+
+.badges{
+	width: 340px;
+	height: 340px;
+	background: ;
+	padding: 232px 0 0 80px;
+}
+
+ 	.and{
+      background: url('../assets/Registration/android-badge.png');
+    }
+    .add{
+      background: url('../assets/Registration/adwordsbadge.png');
+    }
+     .you{
+      background: url('../assets/Registration/youtube-bagde.png');
+    }
+     .gd{
+      background: url('../assets/Registration/game-dev-badge.png');
+    }
+    .and,.add,.you,.gd{
+      width: 160px;
+      height: 160px;
+      background-size: 100%100%;
+      background-repeat: no-repeat;
+      display: inline-block;
+      margin: 0 3px;
+      opacity: .6;
+      cursor: pointer;
+      transition: opacity .5s;
+    }
+    .and:hover,.add:hover,.you:hover,.gd:hover{
+      opacity: 1;
+    }

@@ -1,0 +1,1 @@
+gollars Failed to be added.<a href="<?php echo base_url("Admins/money/users_list");?>">Back</a>

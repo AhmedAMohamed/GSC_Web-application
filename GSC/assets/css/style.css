@@ -1,0 +1,820 @@
+/*--------------------------------------------------------------
+1.0 Head
+--------------------------------------------------------------*/
+body{
+	margin:0;
+	background: #EEEEEE;
+}
+
+.gsc-container-mnbly{
+	width: 65%;
+	max-width:1200px;
+	height: auto;
+	min-height:600px;
+	background: #9E9E9E;
+	margin :0 auto;
+}
+.container-mnbly{
+	height: 64px;
+}
+		.head-mnbly{
+			width:100%;
+			height:60px;
+			background:#0c72ba;
+			position: fixed;
+			border-bottom:4px solid #0D47A1;
+			z-index: 98;
+		}
+		.head-container
+		{
+			max-width:1366px;
+			margin:0 auto;
+			background:#0c72ba;
+		}
+		.menu-icon-mnbly{
+			width: 20%;
+			height: 100%;
+			background: ;
+			float: left;
+			border-bottom:4px solid #0D47A1;
+		}
+		.menu-icon-img-mnbly{
+			width:100%;
+			height: 100%;
+			background: url(../../assets/img/menulefticon.png) ;
+			background-size: 100%100%;
+			
+			
+			cursor: pointer;
+			position: relative;
+			z-index: 99;
+			-webkit-transition: all 0.5s ease;
+		    -moz-transition: all 0.5s ease;
+		    -o-transition: all 0.5s ease;
+		    transition: all 0.5s ease;
+		}
+		.menu-icon-holder-mnbly{
+			width: 60px;
+			height: 60px;
+			cursor: pointer;
+			float: left;
+			transition:background 1s;
+		}
+		.orange,.orange:hover{
+			background: #FF9800 !important;
+		}
+		.menu-icon-holder-mnbly:hover{
+			background: #0d47a1;
+		}
+		.account-info-mnbly{
+			width: 60%;
+			height: 100%;
+			background: ;
+			float: left;
+			/* border-bottom:5px solid #070707; */
+		}
+		.img-info-mnbly{/*/////////////////////////////////////////*/
+			width: 120px;
+			height: 45.5px;
+			background: url(../../assets/img/whitelogo.png);
+			background-size: cover;
+			margin: 0 auto;
+			background-position: 0px 0px;
+			float: left;
+			margin:8px;
+			}
+		}
+		.name-info-mnbly
+		{
+			color: #9E9E9E;
+			margin-top: 65px;
+			float: left;
+			font-size: 18px;
+			margin-left: 20px;
+			font-family: Open Sans;
+			cursor:pointer;
+		}
+		.career-mnbly{
+			width: 116px;
+			min-width: 120px;
+			height: 70px;
+			margin: 0 auto;
+			
+			padding-top: 10px;
+			
+		}
+		.xp-info-mnbly,.money-info-mnbly{
+			
+			background:white;
+			border-radius: 10px;
+			margin: 0 auto;
+			clear: right;
+		}
+		.xp-info-mnbly{
+			width: 150px;
+			height: 14px;
+			background: #d3dbe8;
+			border: 2px solid 0D47A1;
+		}
+		.xp-load-shadow-mnbly{
+			width:200px;
+			height: 20px;
+			border-radius: 10px;
+			/*box-shadow: 1px 1px 5px 1px black inset,-1px -1px 5px 1px black inset,
+			1px 1px 15px 1px #303030,-1px -1px 15px 1px #303030;*/
+		}
+		.xp-load-mnbly{
+			/*width:100%;*/
+			height: 100%;
+			border-radius: 7px;
+			background: #009924;
+		}
+		.xp-title-mnbly{
+			color:white;
+			float:left;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 12px;
+			margin-top: 2px;
+			margin-left: -60px;
+		}
+		.money-info-mnbly{
+			float: right;
+			height: 14px;
+			margin: 0 auto;
+			margin-top:5px;
+			background:#0D47A1;
+			
+		}
+		.money-container-mnbly{
+			float: left;
+			margin:0 20px;
+		}
+		.money-value-mnbly{
+			color:white;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 10px;
+			display: block;
+			float: left;
+			
+		}
+		.gollar-sign-cont-mnbly,.xp-cont-mnbly
+		{
+			width:20px;
+			height:20px;
+			background:#4D4D4D;
+			border-radius:50%;
+			padding:10px;
+			float:left;
+		}
+		.gollar-sign-mnbly{
+			float: left;
+			width: 12px;
+			height: 20px;
+			background: url(../../assets/img/mnbly/gollar.png);
+			background-size: 100%100%;
+			margin:0px 0 0 5px;
+			
+		}
+		.gollar-sign-mnbly-info
+		{
+			width: 12px;
+			height: 20px;
+			background: url(../../assets/img/mnbly/gollar.png);
+			background-size: 100%100%;
+		}
+		.ppic-mnbly{/*/////////////////////////////////////////////////////////////*/
+			
+			width: 70px;
+			height: 70px;
+			background: url(../../assets/img/default.png);
+			background-size: 100%100%;
+			float: right;
+			margin-right: 10%;
+			margin-top: 8px;
+			float: right;
+			border: 3px solid #0D47A1;
+			border-radius: 50%;
+			transition: margin .4s,width .4s,height .4s;
+			
+		}
+		
+
+.right-div-mnbly
+{
+	float: right;
+	width:20%;
+	overflow: hidden;	
+}
+.name-info-mnbly{
+	color: #FFFFFF;
+	font-family: Open Sans;
+	font-style: italic;
+	font-size: 17px;
+	margin-top: 27px;
+	float: right;
+	margin-right: 17px;
+	transition: font .4s,margin .4s;
+}
+
+/*--------------------------------------------------------------
+2.0 Right Menu
+--------------------------------------------------------------*/
+		.side-menu-mnbly{
+			width: 15%;
+			max-width: 300px;
+			min-width: 200px;
+			height: 1000px;
+			max-height:100%;
+			background: #424242;
+			position: fixed;
+			left: -400px;top: 0;
+			z-index:100; 
+			overflow-y: auto;
+			top:64px;
+			padding-top: 20px;
+		}
+		.side-menu-mnbly::-webkit-scrollbar {
+			width: 6px;
+		}
+		 
+		.side-menu-mnbly::-webkit-scrollbar-track {
+			-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+		}
+		 
+		.side-menu-mnbly::-webkit-scrollbar-thumb {
+		  background-color: darkgrey;
+		  outline: 1px solid slategrey;
+		}
+		.menu-tab-mnbly{
+			width: 60%;
+			height: 30px;
+			display: block;
+			text-align: left;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 14px;
+			font-weight: normal;
+			color: #d3dbe8;
+			text-decoration: none;
+			border-bottom: 1px solid #a8a8a8;
+			margin: 0 10%;
+			cursor: pointer;
+			padding-top: 10px;
+		}
+		.side-menu-head-mnbly{
+			width:100%;
+			height:100px;
+			background:#1c1c1c;
+			border-bottom:5px solid #070707;
+		}
+		.menu-tab-mnbly{
+			color:#f2f2f2;
+		}
+		.current{
+			border-bottom: 3px solid #567dbe;
+		}
+		.disabled
+		{
+			opacity:0.2;
+			 pointer-events: none;
+		}
+		.gsc-logo-grey-mnbly{
+			width: 138px;
+			height: 54px;
+
+			background: url(../../assets/img/mnbly/gsc-logo-grey.png);
+			background-size: 100%100%;
+			margin: 0 auto;
+			margin-top:20px;
+		}
+
+
+
+
+
+
+		.rotate {
+		    -ms-transform: rotate(-90deg); /* IE 9 */
+		    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+		    transform: rotate(-90deg);
+		}
+@media only screen and (max-width:960px)
+{
+	.gsc-container-mnbly{
+			width: 100%;
+		}
+}
+@media only screen and (min-width:620px) and (max-width:838px)
+{
+		
+		.ppic-mnbly{
+			width: 62px;
+			height: 60px;
+			background: url(../../assets/img/mnbly/gsc-min-logo.png);
+			background-size: 100%100%;
+			margin-right:5%;
+		}
+		.xp-load-shadow-mnbly {
+			width: 180px;
+		}
+		.career-mnbly{
+			width: 180px;
+			margin-right: 20px;
+		}
+		.xp-info-mnbly{
+			width: 180px;
+			height: 18px;
+			background: #d3dbe8;
+		}
+		.money-info-mnbly{
+			
+			height: 20px;
+		}
+}
+@media only screen and (max-width:620px)
+{
+		.ppic-mnbly{			
+			width: 52px;
+			height: 50px;
+			background: url(../../assets/img/mnbly/gsc-min-logo.png);
+			background-size: 100%100%;
+			margin-right:0%;
+			display: none;
+		}
+		.img-info-mnbly{
+			/*width: 80px;
+			height: 80px;*/
+		}
+		.xp-load-shadow-mnbly {
+			width: 160px;
+		}
+		.career-mnbly{
+			width: 160px;
+			margin-right: 5%;
+		}
+		.xp-info-mnbly{
+			width: 160px;
+			height: 16px;
+			background: #d3dbe8;
+		}
+		.money-info-mnbly{
+			
+			height: 20px;
+		}
+}
+
+
+
+.gsc-container-mnbly
+{
+
+}
+.bottom
+{
+	
+}
+#terms-conditions
+{
+	color: #BDBDBD;
+	font-size: 12px;
+	font-family: Open Sans;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	text-decoration: none;
+	float: left;
+	margin-left: 10%;
+}
+#terms-conditions:hover
+{
+	text-decoration: underline;
+}
+
+/*/////////////////////////////////////
+2.0 PROFILE STYLES
+///////////////////////////////////////*/
+.profile-container-mnbly{
+	width: 100%;
+	height: auto;
+	padding-top: 4px;
+	
+}
+.account-profile-info-mnbly{
+	width: 95%;
+	height: 360px;
+	background:#FFFFFF; 
+	
+	padding: 2% 0 0 5%;
+}
+.account-padges-info-mnbly{
+	width: 80%;
+	height: auto;
+	min-height:360px;
+	background:#FFFFFF; 
+	padding: 2% 10%;
+	margin-top:2px;
+	display:;
+}
+.account-actioncards-info-mnbly{
+	width: 80%;
+	height: 360px;
+	background:#13955c; 
+	padding: 2% 10%;
+	display:none;
+}
+.account-settings-info-mnbly{
+	width: 90%;
+	height: 360px;
+	background:#4151a3; 
+	padding: 2%  5%;
+	display:none;
+}
+
+
+
+
+
+.the-info-mnbly{
+	width: 100%;
+	height:250px;
+}
+.up-info-mnbly
+{
+	height:inherit;
+}
+.account-img-mnbly
+{
+	width: 180px;
+	height: 180px;
+	/*background: url(../../assets/img/default.png); */
+	border:4px solid #070707;
+	background-size: cover !important;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 50%;
+	float: left;
+
+}
+.money-container-mnbly{
+	
+}
+.maney-value-mnbly{
+	float: left;
+}
+.money-value-mnbly-again
+{
+	color:white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	display: inline-block;
+	height: 25px;
+	margin-top: 8px;
+	
+}
+
+.account-money-mnbly
+{
+	width:440px;
+}
+.money-container-mnbly-again
+{
+	margin: 0 auto;
+	position: relative;
+	width: 200px;
+	height: 40px;
+	background: #9E9E9E;
+	font-size:18px;
+	border-radius: 20px;
+	float:left;
+	box-shadow: 0px 0px 35px -16px #333333 inset;
+}
+.account-xp-mnbly-again{
+	width: 200px;
+	height: 40px;
+	background: #9E9E9E;
+	float: left;
+	text-align: center;
+	/* padding: 5px 0; */
+	border-radius: 20px;
+	font-family: 'Open Sans', sans-serif;
+	color: #F2F2F2;
+	font-size: 14px;
+	margin-left:40px;
+}
+.money-value-text-mnbly
+{
+	float:left;
+	color:#212121;
+}
+.exp-text-mnbly
+{
+	margin-top:8px;
+	color:#212121;
+}
+.account-xp-mnbly/* ,.account-money-mnbly */{
+	width: 200px;
+	height: 25px;
+	background: #d3362d;
+	float: right;
+	margin: 5px 0px;
+	text-align: center;
+	padding: 15px 0;
+	font-family: 'Open Sans', sans-serif;
+	color: #f2f2f2;
+	font-size: 16px;
+}
+.account-money-mnbly
+{
+	width:440px;
+}
+
+.account-left-info
+{
+	float:left;
+	width:30%;
+	margin:30px;
+}
+.account-right-info
+{
+	float: right;
+	padding: 0 0 0 0;
+	margin: 16px 0;
+	border-radius: 100px 0 0 100px;
+	background: #424242;
+	opacity:0;
+}
+
+
+.account-name-mnbly{
+	
+	text-align:left;
+	padding: 2px 10px;
+	/*text-shadow: 0px 0px 1px #000000;*/
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	color: #0c72ba;
+	background: ;
+	/* box-shadow: 0px 0px 35px -16px #333333 inset; */
+	
+}
+.account-rank-logo-mnbly{
+	width: 159px;
+	height: 159px;
+	background: url(../../assets/img/padges/GSC_Badges/1-08.png);
+	background-size: 100%100%;
+	margin:0 auto;
+	/* margin-top:20px; */
+}
+.account-rank-name-mnbly
+{
+	/* font-style:italic; */
+	color:#f2f2f2;
+	text-align:center;
+	font-size:14px;
+	margin-top:10px;
+}
+.account-position-mnbly{
+	padding: 0 10px;
+	font-weight: 200;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 26px;
+	font-style:italic;
+	color: #333333;
+	text-align: left;
+	margin-top: 10px;
+	background: ;
+}
+.account-committee-mnbly{
+	padding: 0 10px;
+	font-weight: 100;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-style:italic;
+	margin-top:10px;
+	color: #333333;
+	text-align: left;
+	background: ;
+}
+.account-quote-mnbly
+{
+	color: white;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+}
+
+@media only screen and (max-width:1200px)
+{
+	.account-img-mnbly
+	{
+		width: 200px;
+		height: 200px;
+	}
+	.account-rank-logo-mnbly{
+		width:180px;
+		height:180px;
+	}
+	.account-name-mnbly{
+		padding: 1px 5px;
+		font-size: 32px;
+	}
+	.account-position-mnbly{
+		padding: 0 12%;
+		font-size: 20px;
+	}
+	.account-committee-mnbly{
+		padding: 0 12%;
+		font-size: 14px;
+	}	
+	.account-quote-mnbly
+	{
+		font-size:22px;
+	}
+	.account-xp-mnbly-again,.account-xp-mnbly,.money-container-mnbly-again{
+		width:170px;
+	}
+}
+@media only screen and (max-width:1050px)
+{
+	.account-img-mnbly
+	{
+		width: 180px;
+		height: 180px;
+	}
+	.account-rank-logo-mnbly{
+		width:160px;
+		height:160px;
+	}
+	.account-name-mnbly{
+		padding: 1px 5px;
+		font-size: 32px;
+	}
+	.account-position-mnbly{
+		padding: 0 12%;
+		font-size: 20px;
+	}
+	.account-committee-mnbly{
+		padding: 0 12%;
+		font-size: 14px;
+	}	
+	.account-quote-mnbly
+	{
+		font-size:22px;
+	}
+	.account-xp-mnbly-again,.account-xp-mnbly,.money-container-mnbly-again{
+		width:170px;
+	}
+}
+
+/* end of account info */
+
+
+/* Badges style */
+
+.badges-info-title
+{
+	font-size: 35px;
+	font-family: Open Sans;
+	font-style:italic;
+	font-weight: 700;
+}
+.badges-cont-mnbly
+{
+	width:100%;
+	height:auto;
+	
+}
+.badges-model-mnbly
+{
+	width:100px;
+	height:140px;
+	background:;
+	float:left;
+	margin:15px;
+}
+.badges-model-img
+{
+	width:100px;
+	height:100px;
+	background-size:100%100% !important;
+	background-repeat:no-repeat;
+}
+.badges-model-title
+{
+	font-size: 15px;
+	font-family: Open Sans;
+	font-style:italic;
+	font-weight: 400;
+	text-align:center;
+}
+
+/*minimize header on scroll*/
+.minimize
+{
+	margin:10px;
+	width: 35px;
+	height: 35px;	
+}
+.minimizefont
+{
+	font-size: 14px;
+	margin:20px 0;
+}
+.fontawesome
+{
+	font-size: 20px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ADMIN ADD XP */
+
+.xp-add-mnbly,.gollars-add-mnbly
+{
+	width: 20px;
+	height: 20px;
+	background: #009924;
+	border-radius: 50%;
+	padding: 10px;
+	float: right;
+	cursor:pointer;
+	color:white;
+}
+
+
+
+.bobBackground-G,.bobBackground-X,.bobEditProfile
+{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	display:none;
+	background:rgba(0,0,0,.5);
+}
+
+.ADD-XP-FORM,.ADD-G-FORM
+{
+	width: 300px;
+	margin: 135px auto;
+	height: 100px;
+	text-align: center;
+	background: white;
+	padding: 20px;
+}
+
+.bobHead{
+	width: 92%;
+	height: 50px;
+	margin: 0 auto;
+}
+.bobTitle{
+	width: auto;
+	height: auto;
+	float: left;
+	padding: 10px 0;
+	font-family: Open Sans;
+	font-weight: bold;
+	font-size: 20px;
+}
+.bobClose{
+	padding: 10px 0;
+	cursor: pointer;
+	float: right;
+}
+
+
+
+
+/*
+Upload Image
+*/
+
+.uploadPic
+{
+	width:50px;
+	height:50px;
+	background:black;
+	cursor:pointer;
+}
+
+.formUpload
+{
+	width: 300px;
+	height: 150px;
+	margin: 200px auto;
+	text-align: center;
+}

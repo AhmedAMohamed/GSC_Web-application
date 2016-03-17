@@ -1,0 +1,1819 @@
+20141103T065158: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 95
+
+20141103T065201: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 95
+
+20141103T065205: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 95
+
+20141103T065227: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 93
+
+20141103T065255: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 93
+
+20141103T065321: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 93
+
+20141103T065331: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 93
+
+20141103T065514: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected '>' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065526: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected '>' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065530: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected '>' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065532: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Parse error:  syntax error, unexpected '>' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065618: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065723: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065728: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T065937: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T070037: gsc-asu.com/gsc_monopoly/GSC/index.php
+PHP Fatal error:  Call to undefined function base_url() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/views/entryCheck_view.php on line 92
+
+20141103T083425: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/serialNumberCheck
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083619: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/serialNumberCheck
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083659: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083707: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083712: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083737: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083801: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083822: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083825: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 27
+
+20141103T083848: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 28
+
+20141103T083934: gsc-asu.com/gsc_monopoly/GSC/index.php/entryCheck/
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/gsc_monopoly/GSC/application/controllers/entryCheck.php on line 28
+
+20141103T103347: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function view() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 5
+
+20141103T103540: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function view() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 5
+
+20141103T103724: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function view() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 5
+
+20141103T103955: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method entry_check::input() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 10
+
+20141103T104043: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method entry_check::input() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 9
+
+20141103T104141: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method entry_check::input() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 9
+
+20141103T104210: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method entry_check::input() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 9
+
+20141103T104423: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method Entry_check_model::serial_exist() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 11
+
+20141103T104432: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method Entry_check_model::serial_exist() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/entry_check.php on line 11
+
+20141103T111330: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '=' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/registration_view.php on line 98
+
+20141103T111342: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '=' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/registration_view.php on line 98
+
+20141103T111536: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '=' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/registration_view.php on line 98
+
+20141103T111541: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '=' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/registration_view.php on line 98
+
+20141103T111554: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '=' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/registration_view.php on line 98
+
+20141103T112735: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method Registration::not_registered() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/registration.php on line 8
+
+20141103T113337: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function serial_exists() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/registration.php on line 23
+
+20141103T121707: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_ECHO in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile_view.php on line 5
+
+20141103T122435: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 55
+
+20141104T055947: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '/', expecting ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/includes/header.php on line 4
+
+20141104T060001: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '/', expecting ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/includes/header.php on line 4
+
+20141104T074111: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074128: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074147: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074155: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074158: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074159: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074159: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074200: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074202: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074204: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074210: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074219: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074242: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074243: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074246: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 14
+
+20141104T074247: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 14
+
+20141104T074248: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 14
+
+20141104T074318: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 14
+
+20141104T074319: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 14
+
+20141104T074721: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074723: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074724: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074727: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074729: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074731: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074822: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074849: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074906: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074908: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T074914: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T075012: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T075014: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T075017: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 13
+
+20141104T075245: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function read_file() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 9
+
+20141104T075248: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function read_file() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 9
+
+20141104T075305: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function read_file() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 9
+
+20141104T082652: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method Initializer_model::insert_into_users() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/intializer.php on line 9
+
+20141104T083517: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Class 'Initializer_model' not found in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/system/core/Loader.php on line 303
+
+20141104T083930: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Class 'Initializer_model' not found in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/system/core/Loader.php on line 303
+
+20141104T083938: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_ARRAY in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/initializer_model.php on line 13
+
+20141104T084417: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/initializer_model.php on line 16
+
+20141104T085132: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/initializer_model.php on line 9
+
+20141104T085215: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '[', expecting '(' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/initializer_model.php on line 16
+
+20141104T125540: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/initializer_model.php on line 18
+
+20141104T170149: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ';', expecting ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/registration_model.php on line 13
+
+20141104T180320: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function userdata() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 15
+
+20141104T180411: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function get_user_data() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 15
+
+20141104T180424: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method CI_Session::get_user_data() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 15
+
+20141104T181547: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 38
+
+20141104T181630: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 38
+
+20141104T181634: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 38
+
+20141104T181811: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function get_user_data() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 31
+
+20141104T184740: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/logout.php on line 11
+
+20141104T184814: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/logout.php on line 11
+
+20141104T184836: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/logout.php on line 11
+
+20141104T190505: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_PRIVATE in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 3
+
+20141104T190539: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_PRIVATE in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 3
+
+20141105T045744: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function all_userdata() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/home.php on line 6
+
+20141105T050109: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined method CI_Session::get_userdata() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/home.php on line 6
+
+20141105T051256: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 10
+
+20141105T071941: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function where() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 23
+
+20141105T151919: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 63
+
+20141105T151937: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 63
+
+20141105T164212: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/members_list_view.php on line 106
+
+20141105T164836: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/members_list_view.php on line 107
+
+20141105T165109: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/members_list_view.php on line 107
+
+20141105T165115: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/members_list_view.php on line 107
+
+20141105T165218: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/members_list_view.php on line 107
+
+20141106T055655: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T055709: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T055712: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T055801: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T055819: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T055845: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 49
+
+20141106T060040: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T060059: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T060102: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T060149: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T060438: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_NEW in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T060509: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_NEW in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141106T060548: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_NEW in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 5
+
+20141108T103714: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '?' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/addGollars.php on line 105
+
+20141108T103802: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '?' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/addGollars.php on line 105
+
+20141108T103822: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '?' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/addGollars.php on line 105
+
+20141108T103857: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/addGollars.php on line 104
+
+20141108T103952: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/addGollars.php on line 104
+
+20141108T123743: gsc-asu.com/GSC/phpMyAdmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141108T123818: gsc-asu.com/GSC/phpMyAdmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141108T123821: gsc-asu.com/GSC/phpMyAdmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141108T123856: gsc-asu.com/GSC/phpMyAdmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141108T130854: gsc-asu.com/GSC/phpMyAdmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141111T124707: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{', expecting '(' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 4
+
+20141111T124846: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{', expecting '(' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 4
+
+20141111T124931: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{', expecting '(' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 4
+
+20141111T124936: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '{', expecting '(' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 4
+
+20141111T150547: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function get_user_data() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 19
+
+20141111T165641: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 25
+
+20141111T165721: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 27
+
+20141111T180002: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Can't use method return value in write context in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 7
+
+20141111T180044: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180132: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Can't use method return value in write context in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 7
+
+20141111T180137: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Can't use method return value in write context in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 7
+
+20141111T180141: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Can't use method return value in write context in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 7
+
+20141111T180238: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180330: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180332: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180335: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180417: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180419: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180533: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180609: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180700: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T180801: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/models/user_helper_model.php on line 60
+
+20141111T181542: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 8
+
+20141111T181822: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 8
+
+20141112T002220: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/profile.php on line 9
+
+20141113T102739: gsc-asu.com/phpmyadmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141113T102743: gsc-asu.com/phpmyadmin/index.php
+suexec policy violation: see suexec log for more details
+
+20141113T165221: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected T_PRIVATE in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/registration.php on line 3
+
+20141113T184517: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function var_dumb() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/users_view.php on line 2
+
+20141114T070812: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '.' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/users_view.php on line 4
+
+20141114T071829: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function var_dumb() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/users_visit_view.php on line 2
+
+20141114T130823: www.gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function var_dumb() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/users_visit_view.php on line 2
+
+20141114T132854: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function var_dumb() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/users_visit_view.php on line 2
+
+20141114T144601: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function var_dumb() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/users_visit_view.php on line 2
+
+20150206T170443: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170502: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170509: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170523: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170528: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170539: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170548: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170553: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T170652: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T205250: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150206T205801: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host ''ahmedge.ipagemysql.com'' (1) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150212T075648: gsc-asu.com/Beta/register.php
+PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'gsc'@'10.%' to database 'ci2' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150212T080703: gsc-asu.com/Beta/register.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php:11) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php on line 49
+
+20150212T080706: gsc-asu.com/Beta/register.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php:11) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php on line 49
+
+20150212T080747: gsc-asu.com/Beta/register.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php:13) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php on line 50
+
+20150212T080808: gsc-asu.com/Beta/register.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php:24) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php on line 52
+
+20150212T080813: gsc-asu.com/Beta/register.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php:24) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/register.php on line 52
+
+20150212T081255: gsc-asu.com/Beta/pst.php
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T083203: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083304: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083306: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083308: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083325: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083327: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083435: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083437: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 31
+
+20150212T083445: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 27
+
+20150212T083447: gsc-asu.com/Beta/begin.php
+PHP Parse error:  syntax error, unexpected ';', expecting T_VARIABLE or '$' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/begin.php on line 27
+
+20150212T083735: gsc-asu.com/Beta/pst.php
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T083829: gsc-asu.com/Beta/pst.php
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T083939: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T083949: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T083955: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T084010: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T090416: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 71
+PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 76
+
+20150212T090439: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T090450: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T090455: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T090906: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T090912: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T090915: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091023: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091215: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091219: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091225: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091615: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091620: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091712: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091718: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091727: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T091732: gsc-asu.com/Beta/pst.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:19) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 20
+
+20150212T111733: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T111757: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T111803: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T111826: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T111901: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T111907: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112024: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112106: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112119: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112121: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112123: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112126: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112137: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112141: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112146: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112218: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112237: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112404: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112544: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112551: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112555: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112711: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112759: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112838: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112841: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112843: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112845: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112846: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112848: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112851: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112855: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112857: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112901: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112904: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T112905: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_0076c20b71c2bf5a2e517daf02f65542, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113007: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113023: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113035: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113051: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113152: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113200: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113220: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113231: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113237: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_b48f623645f5043fe1d0b2636e33744b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113253: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113258: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113304: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113328: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113333: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113338: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_a50dbfbad068b9404faf68ec6ea42a0d, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113408: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_5a42ee7e698ba57c3a5269de781c33a9, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_5a42ee7e698ba57c3a5269de781c33a9, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113413: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_5a42ee7e698ba57c3a5269de781c33a9, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_5a42ee7e698ba57c3a5269de781c33a9, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113418: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_5a42ee7e698ba57c3a5269de781c33a9, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_5a42ee7e698ba57c3a5269de781c33a9, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113637: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113644: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113735: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113744: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113905: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T113910: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114016: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114022: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 6
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114627: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114633: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114640: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114644: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114743: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114749: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114754: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T114811: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115159: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115216: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115306: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115311: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115315: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115321: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115351: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115404: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115408: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115620: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115629: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115835: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T115843: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120044: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120049: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120214: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120222: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120352: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120357: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120405: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120551: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120718: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120729: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120813: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120824: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T120833: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions) in Un
+20150212T121925: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 21
+PHP Warning:  session_write_close(): Failed to write session data (files). Please verify that the c
+20150212T121929: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 21
+PHP Warning:  session_write_close(): Failed to write session data (files). Please verify that the c
+20150212T121935: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 21
+PHP Warning:  session_write_close(): Failed to write session data (files). Please verify that the c
+20150212T122332: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 21
+PHP Warning:  session_write_close(): Failed to write session data (files). Please verify that the c
+20150212T122337: gsc-asu.com/Beta/pst.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 21
+PHP Warning:  session_write_close(): Failed to write session data (files). Please verify that the c
+20150212T122527: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T122532: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T122539: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T123232: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/lib/php/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/lib/php/sess_57f4117c3ec2364f
+20150212T123238: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/lib/php/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/lib/php/sess_57f4117c3ec2364f
+20150212T123416: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/lib/php/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/lib/php/sess_57f4117c3ec2364f
+20150212T123423: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/lib/php/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/lib/php/sess_57f4117c3ec2364f
+20150212T123656: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/tmp/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/tmp/php_sessions/sess_57f411
+20150212T123702: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/tmp/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/tmp/php_sessions/sess_57f411
+20150212T124453: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T124458: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T124504: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T124525: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  session_start(): open(/var/php_sessions/sess_57f4117c3ec2364f3642dc404748f4b7, O_RDWR) failed: No such file or directory (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 3
+PHP Warning:  session_write_close(): open(/var/php_sessions/sess_57f411
+20150212T125433: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+
+20150212T125439: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+
+20150212T125611: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+
+20150212T154006: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+
+20150212T154552: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php:12) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 63
+
+20150212T154556: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+
+20150217T111606: gsc-asu.com/Beta/pst.php
+PHP Warning:  ini_get() expects exactly 1 parameter, 3 given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+PHP Warning:  mkdir(): No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 2
+
+20150217T184538: gsc-asu.com/Beta/pst.php
+PHP Parse error:  syntax error, unexpected ',' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/pst.php on line 137
+
+20150217T190555: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150217T190758: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150218T083843: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150218T083845: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T103315: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T103408: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T103619: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T104215: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T104955: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T105320: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T105638: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T105937: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T110030: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T110115: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T110119: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  require(config.php): failed to open stream: No such file or directory in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/local/lib/php-5.3.13/lib/php') in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 13
+
+20150220T110550: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning
+20150220T110826: gsc-asu.com/Beta/quizrec.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/quizrec.php on line 58
+
+20150220T110841: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning
+20150220T110922: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning
+20150220T111015: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/includes/functions.php on line 20
+PHP Warning
+20150220T111132: gsc-asu.com/Beta/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/dbConn.php on line 9
+
+20150220T114055: gsc-asu.com/Beta/count.php
+PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Beta/count.php on line 5
+
+20150220T145914: gsc-asu.com/Registertion.php
+PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Registertion.php on line 16
+
+20150220T145921: gsc-asu.com/Registertion.php
+PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Registertion.php on line 16
+
+20150220T145944: gsc-asu.com/Registertion.php
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Registertion.php on line 12
+
+20150220T145948: gsc-asu.com/Registertion.php
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/bosnaweb04a/b2366/ipg.ahmedge/Registertion.php on line 12
+
+20150220T150715: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150220T150743: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150220T151017: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150220T151155: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150220T153029: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150220T172610: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150221T180644: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150221T180727: gsc-asu.com/pst.php
+PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ',' or ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/pst.php on line 8
+
+20150221T180732: gsc-asu.com/pst.php
+PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ',' or ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/pst.php on line 8
+
+20150221T180936: gsc-asu.com/pst.php
+PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ',' or ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/pst.php on line 8
+
+20150221T181240: gsc-asu.com/pst.php
+PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/pst.php on line 8
+
+20150221T181244: gsc-asu.com/pst.php
+PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ')' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/pst.php on line 8
+
+20150221T183547: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150221T183556: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150221T184107: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150221T184310: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150221T184310: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150221T184550: gsc-asu.com/quizrec.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnaweb04a/b2366/ipg.ahmedge/quizrec.php on line 2
+
+20150223T051950: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150223T103640: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150223T155837: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T050009: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T061518: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T073457: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T081318: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T082717: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T095411: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T112359: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T112359: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T120035: www.gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T133505: gsc-asu.com/pst.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T133508: gsc-asu.com/pst.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T141851: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T144235: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T174412: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150224T175403: gsc-asu.com/pst.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T090819: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T091140: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T091204: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T102916: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T132924: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T133311: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150225T222117: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T030333: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T054342: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T060756: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 40
+
+20150226T060801: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Cannot use object of type stdClass as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 40
+
+20150226T062950: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T074203: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T102356: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T131041: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T134810: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/result.php on line 21
+
+20150226T134824: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/result.php on line 21
+
+20150226T134837: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/result.php on line 21
+
+20150226T183304: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150226T205018: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T022125: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T033634: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T080016: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 61
+
+20150227T080036: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/community.php on line 61
+
+20150227T090507: gsc-asu.com/resultToPass.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T090525: gsc-asu.com/resultToPass.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T095428: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function post() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/xp.php on line 10
+
+20150227T095503: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function post() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/xp.php on line 10
+
+20150227T095514: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function post() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/xp.php on line 10
+
+20150227T103507: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function add_money_to_user() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 21
+
+20150227T103523: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to a member function add_money_to_user() on a non-object in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/money.php on line 21
+
+20150227T114105: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114112: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114129: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114155: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114158: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114210: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114217: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114224: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114232: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114259: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114300: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114303: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T114417: gsc-asu.com/GSC/index.php
+PHP Fatal error:  Call to undefined function form_open_multipart() in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/views/profile.php on line 89
+
+20150227T123726: gsc-asu.com/pst.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T124413: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T135921: gsc-asu.com/s.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T140039: gsc-asu.com/s.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T140126: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T144140: gsc-asu.com/pst.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150227T170942: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171009: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171013: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171014: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171015: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171017: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171017: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171017: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171017: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171018: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171305: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150227T171706: gsc-asu.com/register.php
+PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /hermes/bosnaweb04a/b2366/ipg.ahmedge/register.php on line 27
+
+20150228T030335: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T030335: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T041056: gsc-asu.com/sendInt.php
+PHP Warning:  mysqli_query(): Empty query in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 30
+
+20150228T041109: gsc-asu.com/sendInt.php
+PHP Warning:  mysqli_query(): Empty query in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 30
+
+20150228T041148: gsc-asu.com/sendInt.php
+PHP Warning:  mysqli_query(): Empty query in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 30
+
+20150228T041214: gsc-asu.com/sendInt.php
+PHP Warning:  mysqli_query(): Empty query in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 30
+
+20150228T080356: gsc-asu.com/sendInt.php
+PHP Parse error:  syntax error, unexpected '<' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 28
+
+20150228T080656: gsc-asu.com/sendInt.php
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+
+20150228T080658: gsc-asu.com/sendInt.php
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+PHP Warning:  Division by zero in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 29
+
+20150228T084830: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T092736: gsc-asu.com/sendInt.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 150
+
+20150228T092812: gsc-asu.com/sendInt.php
+PHP Parse error:  syntax error, unexpected '{' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 150
+
+20150228T095953: gsc-asu.com/intersave.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T121239: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T123528: gsc-asu.com/intersave.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T124741: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T130509: gsc-asu.com/viewInter.php
+PHP Fatal error:  Cannot use object of type mysqli_result as array in /hermes/bosnaweb04a/b2366/ipg.ahmedge/viewInter.php on line 10
+
+20150228T132033: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T134502: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T134922: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T135433: gsc-asu.com/intersave.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T153639: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T163139: gsc-asu.com/register.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150228T212953: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T031916: gsc-asu.com/pst.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T045935: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T053121: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T055609: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T064353: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T071642: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T073024: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T080540: gsc-asu.com/resultToPass.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T080913: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T083038: gsc-asu.com/listOf.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T083121: gsc-asu.com/sendInt.php
+PHP Parse error:  syntax error, unexpected $end in /hermes/bosnaweb04a/b2366/ipg.ahmedge/sendInt.php on line 195
+
+20150301T105906: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T131518: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T144619: gsc-asu.com/intersave.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T171051: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T174854: gsc-asu.com/viewInter.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150301T205435: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T045557: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T045600: gsc-asu.com/count.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T081731: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T083708: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T100620: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T101109: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T115907: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T170237: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150302T171225: gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T002821: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T025503: gsc-asu.com/intersave.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T114837: gsc-asu.com/viewInter.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T143631: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T150050: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T152257: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T152402: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T155536: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150303T163927: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150304T095425: gsc-asu.com/viewInter.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150304T155621: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150304T163825: gsc-asu.com/intersave.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150304T174102: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150304T174635: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150305T043828: www.gsc-asu.com/result.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150305T101149: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150306T064857: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150306T110803: gsc-asu.com/viewInter.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150306T145914: www.gsc-asu.com/listOf.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150307T134036: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150307T144340: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150310T040158: gsc-asu.com/interviews.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150320T181841: gsc-asu.com/updateQScore.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150324T050013: gsc-asu.com/updateQScore.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150324T050042: gsc-asu.com/updateQScore.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150402T203809: gsc-asu.com/quizrec.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150409T125529: gsc-asu.com/begin.php
+PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ahmedge.ipagemysql.com' (113) in /hermes/bosnaweb04a/b2366/ipg.ahmedge/dbConn.php on line 9
+
+20150728T085452: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/market.php on line 6
+
+20150728T085454: gsc-asu.com/GSC/index.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/bosnaweb04a/b2366/ipg.ahmedge/GSC/application/controllers/Admins/market.php on line 6
+
